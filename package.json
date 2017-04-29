@@ -1,0 +1,21 @@
+{
+  "name": "node-auth",
+  "version": "1.0.0",
+  "description": "REST APIs for user management using NodeJS",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajaPradhan/node-auth.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Raja Pradhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RajaPradhan/node-auth/issues"
+  },
+  "homepage": "https://github.com/RajaPradhan/node-auth#readme"
+}
