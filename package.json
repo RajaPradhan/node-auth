@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "REST APIs for user management using NodeJS",
   "scripts": {
-
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/RajaPradhan/node-auth/issues"
   },
-  "homepage": "https://github.com/RajaPradhan/node-auth#readme"
+  "homepage": "https://github.com/RajaPradhan/node-auth#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.4.0",
+    "mongoose": "^4.9.6",
+    "q": "^1.5.0"
+  }
 }
